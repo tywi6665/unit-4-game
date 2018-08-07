@@ -1,0 +1,30 @@
+body {
+    font-family: 'MedievalSharp', cursive;
+    background-image: url(../images/crystal-background.jpg);
+}
+
+.header {
+    height: 50px;
+    margin: 20px;
+    border-bottom-style: dotted;
+}
+
+p, .target-number {
+    font-size: 26px;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    border-style: dotted;
+}
+
+.row {
+    margin: 0 auto;
+}
+
+#image {
+    height: 225px;
+    width: 225px;
+    margin: 10px;
+}
